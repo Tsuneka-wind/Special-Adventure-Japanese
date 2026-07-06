@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"animationId":6,"description":"轻便的防身武器，跟随绿学习格斗时获得的。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"练习剑","note":"","params":[0,0,10,0,0,0,0,0],"price":0,"wtypeId":2},
+{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"斧","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":4},
+{"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"杖","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":6},
+{"id":4,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"弓","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":7},
+{"id":5,"animationId":115,"description":"漂浮在身边的魔导机械。与小皮可配合使用，可以从任\n意方位快速收集魔力，作为浮游炮输出使用。","etypeId":1,"traits":[{"code":31,"dataId":8,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":104,"name":"魔导器：小胖丁","note":"","params":[0,0,15,0,0,0,0,0],"price":500,"wtypeId":9},
+{"id":6,"animationId":7,"description":"是你在呼唤我吗？","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":21,"dataId":2,"value":1.2},{"code":22,"dataId":1,"value":0.1}],"iconIndex":97,"name":"勇者之剑","note":"","params":[0,0,15,0,0,0,0,0],"price":0,"wtypeId":2},
+{"id":7,"animationId":8,"description":"王国治安官配发的武器，制作十分精良。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"制式佩刀","note":"","params":[0,0,20,0,0,0,0,0],"price":0,"wtypeId":2},
+{"id":8,"animationId":1,"description":"轻便的短弓，配合使用者的技巧可以造成不小的伤害。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":11,"dataId":1,"value":1.2},{"code":33,"dataId":0,"value":10}],"iconIndex":102,"name":"橡木短弓","note":"","params":[0,0,20,0,0,0,10,0],"price":0,"wtypeId":7},
+{"id":9,"animationId":111,"description":"一系列可以发射魔力和低级魔法的枪械，有各种各样的\n尺寸和款式…据说也有炮？","etypeId":1,"traits":[{"code":31,"dataId":10,"value":0},{"code":22,"dataId":0,"value":0.2}],"iconIndex":115,"name":"E-shooter+","note":"","params":[0,0,0,0,20,0,0,0],"price":0,"wtypeId":9},
+{"id":10,"animationId":36,"description":"由名贵的木材制成的琴，有着优美的音色。","etypeId":1,"traits":[{"code":31,"dataId":5,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":200,"name":"红宝竖琴","note":"","params":[0,0,0,0,30,0,0,0],"price":0,"wtypeId":13}
+]

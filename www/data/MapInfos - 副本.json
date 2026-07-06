@@ -1,0 +1,41 @@
+[
+null,
+<<<<<<< .mine
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1090.6666666666667,"scrollY":607.3333333333334},
+{"id":2,"expanded":true,"name":"关东村","order":2,"parentId":1,"scrollX":1090.6666666666667,"scrollY":607.3333333333334},
+{"id":3,"expanded":true,"name":"老黄的家","order":3,"parentId":2,"scrollX":1090.6666666666667,"scrollY":607.3333333333334},
+{"id":4,"expanded":true,"name":"集市","order":4,"parentId":2,"scrollX":1090.6666666666667,"scrollY":607.3333333333334},
+{"id":5,"expanded":true,"name":"过渡用的森林","order":5,"parentId":2,"scrollX":1090.6666666666667,"scrollY":607.3333333333334},
+{"id":6,"expanded":true,"name":"王都（城门）","order":6,"parentId":0,"scrollX":1090.6666666666667,"scrollY":607.3333333333334},
+{"id":7,"expanded":true,"name":"王都（武道馆）","order":7,"parentId":6,"scrollX":1090.6666666666667,"scrollY":607.3333333333334},
+{"id":8,"expanded":true,"name":"教堂内","order":9,"parentId":6,"scrollX":1090.6666666666667,"scrollY":607.3333333333334},
+{"id":9,"expanded":false,"name":"武道馆内","order":8,"parentId":7,"scrollX":1090.6666666666667,"scrollY":607.3333333333334},
+{"id":10,"expanded":true,"name":"教堂","order":10,"parentId":8,"scrollX":1090.6666666666667,"scrollY":607.3333333333334},
+{"id":11,"expanded":false,"name":"海滩","order":11,"parentId":6,"scrollX":1090.6666666666667,"scrollY":607.3333333333334}
+||||||| .r11
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1092,"scrollY":602.6666666666666},
+{"id":2,"expanded":true,"name":"关东村","order":2,"parentId":1,"scrollX":1092,"scrollY":602.6666666666666},
+{"id":3,"expanded":true,"name":"老黄的家","order":3,"parentId":2,"scrollX":1092,"scrollY":613.3333333333334},
+{"id":4,"expanded":true,"name":"集市","order":4,"parentId":2,"scrollX":1092,"scrollY":602.6666666666666},
+{"id":5,"expanded":true,"name":"过渡用的森林","order":5,"parentId":2,"scrollX":1092,"scrollY":602.6666666666666},
+{"id":6,"expanded":true,"name":"王都（城门）","order":6,"parentId":0,"scrollX":1092,"scrollY":602.6666666666666},
+{"id":7,"expanded":true,"name":"王都（武道馆）","order":7,"parentId":6,"scrollX":1092,"scrollY":602.6666666666666},
+{"id":8,"expanded":true,"name":"教堂内","order":9,"parentId":6,"scrollX":1092,"scrollY":602.6666666666666},
+{"id":9,"expanded":false,"name":"武道馆内","order":8,"parentId":7,"scrollX":1092,"scrollY":602.6666666666666},
+{"id":10,"expanded":true,"name":"教堂","order":10,"parentId":8,"scrollX":1092,"scrollY":602.6666666666666},
+{"id":11,"expanded":false,"name":"海滩","order":11,"parentId":6,"scrollX":1092,"scrollY":602.6666666666666}
+=======
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1092,"scrollY":602.6666666666666},
+{"id":2,"expanded":true,"name":"关东村","order":2,"parentId":1,"scrollX":1092,"scrollY":602.6666666666666},
+{"id":3,"expanded":true,"name":"老黄的家","order":3,"parentId":2,"scrollX":1092,"scrollY":602.6666666666666},
+{"id":4,"expanded":true,"name":"集市（带马车款）","order":4,"parentId":2,"scrollX":1092,"scrollY":602.6666666666666},
+{"id":5,"expanded":true,"name":"过渡用的森林","order":6,"parentId":2,"scrollX":1092,"scrollY":602.6666666666666},
+{"id":6,"expanded":true,"name":"王都（城门）","order":7,"parentId":0,"scrollX":1092,"scrollY":602.6666666666666},
+{"id":7,"expanded":true,"name":"王都（武道馆）","order":8,"parentId":6,"scrollX":1092,"scrollY":602.6666666666666},
+{"id":8,"expanded":true,"name":"教堂内","order":10,"parentId":6,"scrollX":1092,"scrollY":602.6666666666666},
+{"id":9,"expanded":false,"name":"武道馆内","order":9,"parentId":7,"scrollX":1092,"scrollY":602.6666666666666},
+{"id":10,"expanded":true,"name":"教堂","order":11,"parentId":8,"scrollX":1092,"scrollY":602.6666666666666},
+{"id":11,"expanded":false,"name":"海滩","order":12,"parentId":6,"scrollX":1092,"scrollY":602.6666666666666},
+{"id":12,"expanded":true,"name":"集市","order":5,"parentId":4,"scrollX":1092,"scrollY":602.6666666666666}
+>>>>>>> .r15
+]
