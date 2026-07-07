@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3fbf285-afb3-4ab0-af92-3a52a4bf93ef" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../data/Map003.json" beforeDir="false" afterPath="$PROJECT_DIR$/../data/Map003.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/MapInfos.json" beforeDir="false" afterPath="$PROJECT_DIR$/../data/MapInfos.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/System.json" beforeDir="false" afterPath="$PROJECT_DIR$/../data/System.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2RYzUr8dKsJrHQbkdqI4sQxUvZ9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/0v0/rpg/dev/project/rpg/venv&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="rpg对话脚本" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3fbf285-afb3-4ab0-af92-3a52a4bf93ef" name="Changes" comment="" />
+      <created>1687441821220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687441821220</updated>
+      <workItem from="1705133940599" duration="34000" />
+      <workItem from="1705134141235" duration="423000" />
+      <workItem from="1705134597815" duration="12000" />
+      <workItem from="1705134616230" duration="328000" />
+      <workItem from="1705135111209" duration="370000" />
+      <workItem from="1705135491682" duration="223000" />
+      <workItem from="1705135723524" duration="602000" />
+      <workItem from="1705241730741" duration="1036000" />
+      <workItem from="1705245185441" duration="968000" />
+      <workItem from="1705246233143" duration="333000" />
+      <workItem from="1705246734567" duration="88000" />
+      <workItem from="1706443006969" duration="22000" />
+      <workItem from="1706443411832" duration="4826000" />
+      <workItem from="1706451526747" duration="3063000" />
+      <workItem from="1710075877038" duration="82000" />
+      <workItem from="1710076117662" duration="7000" />
+      <workItem from="1710079850718" duration="1355000" />
+      <workItem from="1710090309152" duration="1074000" />
+      <workItem from="1713190404341" duration="1286000" />
+      <workItem from="1713191993488" duration="2605000" />
+      <workItem from="1728106499194" duration="59000" />
+      <workItem from="1748020160345" duration="254000" />
+      <workItem from="1748020427966" duration="674000" />
+      <workItem from="1748090609552" duration="2441000" />
+      <workItem from="1748154306777" duration="8373000" />
+      <workItem from="1748255884284" duration="6735000" />
+      <workItem from="1748270677932" duration="1879000" />
+      <workItem from="1748339737905" duration="11506000" />
+      <workItem from="1748408901374" duration="6475000" />
+      <workItem from="1748872380293" duration="601000" />
+      <workItem from="1748873058059" duration="3928000" />
+      <workItem from="1750777676187" duration="698000" />
+      <workItem from="1755930372535" duration="8485000" />
+      <workItem from="1756821400112" duration="4363000" />
+      <workItem from="1756874180277" duration="1907000" />
+      <workItem from="1757081803118" duration="638000" />
+      <workItem from="1758296439795" duration="629000" />
+      <workItem from="1759410079003" duration="711000" />
+      <workItem from="1759412621457" duration="26000" />
+      <workItem from="1759412868985" duration="5490000" />
+      <workItem from="1759459335321" duration="627000" />
+      <workItem from="1759502606857" duration="3182000" />
+      <workItem from="1759577076865" duration="8238000" />
+      <workItem from="1759624017200" duration="1720000" />
+      <workItem from="1759907276838" duration="830000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/roleConfig_json$main.coverage" NAME="main Coverage Results" MODIFIED="1748426880819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/main_py$main.coverage" NAME="main Coverage Results" MODIFIED="1759907283349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/main____py$main.coverage" NAME="main Coverage Results" MODIFIED="1748020502316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
